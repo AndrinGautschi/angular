@@ -183,6 +183,7 @@ export {
 
 export {
   bindPlayerFactory as ɵbindPlayerFactory,
+  BoundPlayerFactory as ɵBoundPlayerFactory,
 } from './render3/styling/player_factory';
 
 export {
